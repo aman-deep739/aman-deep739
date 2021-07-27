@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @aman-deep739
 - 👀 I’m interested in DevOps and Cloud
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...https://www.linkedin.com/in/aman-deep-932337213/
 
 <!---
